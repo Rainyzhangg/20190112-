@@ -4,15 +4,7 @@
 
 EGB4MVDYSC1N3OPN46ZRPYT
 
-自然资源大作业
 
-【
-
-
-自然资源大作业 中国土壤数据库
-
-
-】
 
 操作系统、计算机组成原理、汇编语言、计算机网络
 
@@ -33,13 +25,7 @@ to do list：
 
 aidocx.com   长文档在线排
 
-python123 账号 密码
 
-1271876998@qq.com	13932998275
-
-Eris
-
-1271876998	13932998275
 
 openlayers openGL postgis 
 
