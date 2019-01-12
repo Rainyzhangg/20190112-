@@ -1,0 +1,79 @@
+寒假回家配眼镜
+你有什么理由不好好学习？？？ // 寒假【学习数一和英一 大创php】
+！！！！！！！！！！！！！！拒绝低效率！！！！！！！！！！！
+
+EGB4MVDYSC1N3OPN46ZRPYT
+
+自然资源大作业
+
+【
+
+
+自然资源大作业 中国土壤数据库
+
+
+】
+
+操作系统、计算机组成原理、汇编语言、计算机网络
+
+wake up silly pig -- to myself
+
+考研数学、英语
+101思想政治理论 201英语一 301数学一 920地理信息系统原理与方法/926数字图像处理/929误差理论与测量平差基础
+
+转自资助中心:目前2018年家庭经济困难学生认定工作已
+经结束，学院有被驳回或者不同意的学生，学生可以重
+新办理符合要求的材料，于明年上半年进行补充认定，
+时间：2019年3月-4月。
+
+to do list：
+%s  可变类型（不能作为字典的key，因为hashcode 不可hash碰撞）  和 不可变类型 str int
+
+120.78.161.182
+
+aidocx.com   长文档在线排
+
+python123 账号 密码
+
+1271876998@qq.com	13932998275
+
+Eris
+
+1271876998	13932998275
+
+openlayers openGL postgis 
+
+import random
+
+#网络数据收集系列
+#先要抓包，分析浏览器给服务器发送了什么数据
+import requests
+import time
+#id 输学号 word 输密码
+#
+#2929238201
+#314546441
+#1202160208
+
+def work_stuf():
+	def my_work():
+		id = ''
+		word = ''
+		#url = 'http://122.207.86.90/aclogon/ssosync?url2=/home'
+		url = 'http://libuser.csu.edu.cn/center/ifcuas/login?appId=wifi&params=&retUrl=http://122.207.86.90/aclogon/ssosync?url2=/home'
+		#params = {'appId':'wifi','retUrl':'http://libcsu.edu.cn/CasLogin.jspx','params':'','openId':'','userID':'0106160216','password':'168416'}
+		p = {'appId':'wifi','openId':'','params':'','password':word,'retUrl':'http://122.207.86.90/aclogon/ssosync?url2=/home','userId':id}
+		head = {'User-Agent':'Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166  Safari/535.19'}
+		r = requests.post(url,headers=head,data = p)
+		print(r)
+	my_work()
+	time.sleep(random.randint(4,6))
+	print(time.strftime("%H:%M:%S"))
+while True:
+	
+	try:
+		work_stuf()
+	except (requests.exceptions.ConnectionError):
+		print(time.strftime("%H:%M:%S"))
+	time.sleep(random.randint(4,6))
+
