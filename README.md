@@ -4,4 +4,4 @@
 ## 20190112
 学习GEE计算每类地物面积、谱聚类的谱图、数模小会
 
-rest
+test for note_pad
