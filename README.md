@@ -14,8 +14,8 @@ copy
 	// 格式: 地名拼音+地物，如hunanUrban,hunanVegetation,hunanBarren,hunanWater,hunanOther,导出为Asset <br>
 	/** //采样：裸地 各类建筑  植被  开放水体  <br>
 	//分类属性统一：landcover ，建筑0  植被 1 开放水体2 裸地3 耕地4 <br>
-	-- 111
-	 - 111
+	
+    //注意开始写实习日记
 	
 	### 寒假期间开始准备考研、开学后考虑surface 与 租房 认真复习！！！fighting
 	
